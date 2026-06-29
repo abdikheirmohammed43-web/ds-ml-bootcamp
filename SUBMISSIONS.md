@@ -1,6 +1,6 @@
 # Submission Stats
 
-> Auto-generated report. Last updated: 2026-06-29 09:40 UTC
+> Auto-generated report. Last updated: 2026-06-29 09:52 UTC
 >
 > A student counts as having submitted an assignment if a matching folder exists under their directory in `submissions/`.
 
@@ -11,7 +11,7 @@
 ## Summary
 
 - Assignment 1: **84 sent**, **2 not sent** (out of 86)
-- Assignment 2: **74 sent**, **12 not sent** (out of 86)
+- Assignment 2: **75 sent**, **11 not sent** (out of 86)
 - Assignment 3: **51 sent**, **35 not sent** (out of 86)
 - Assignment 4: **3 sent**, **83 not sent** (out of 86)
 
@@ -24,7 +24,7 @@
 - **abdifataha157-tech** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
 - **Abdikani-Farah** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
 - **Abdikani94** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
-- **abdikheirmohammed43-web** — sent assignment 1; did not send assignment 2, assignment 3, assignment 4
+- **abdikheirmohammed43-web** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
 - **Abdirahman-said** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
 - **abdirahman150** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
 - **Abdirahmanabshir** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
@@ -115,20 +115,19 @@
 1. maxamadcarab63-hue
 2. sicid24
 
-### Assignment 2 (12 not sent)
+### Assignment 2 (11 not sent)
 
-1. abdikheirmohammed43-web
-2. Abdishakuur-ali
-3. Ahmettdev
-4. Ashwarpoi
-5. daganey
-6. fahadAk11
-7. iamkoshin
-8. kassimmoha123
-9. kmmurad
-10. maryamocalimaxamed410-gif
-11. moelkenzi
-12. zakaria965
+1. Abdishakuur-ali
+2. Ahmettdev
+3. Ashwarpoi
+4. daganey
+5. fahadAk11
+6. iamkoshin
+7. kassimmoha123
+8. kmmurad
+9. maryamocalimaxamed410-gif
+10. moelkenzi
+11. zakaria965
 
 ### Assignment 3 (35 not sent)
 
